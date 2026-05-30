@@ -25,15 +25,17 @@ I'm an EE undergrad at IIT Jodhpur who genuinely enjoys building things from scr
  
 ## Projects
  
-**[TalentLens AI](https://github.com/vandan0101)** — AI-powered mock interview platform with resume-based question generation, answer evaluation, and detailed feedback reports. Built with React, Node.js, Express, MongoDB, and OpenRouter. Integrated Razorpay payments and Firebase Auth across 15+ REST APIs.
+**[TalentLens AI]([https://github.com/vandan0101](https://github.com/vandan0101/TalentLens-AI))** — AI-powered mock interview platform with resume-based question generation, answer evaluation, and detailed feedback reports. Built with React, Node.js, Express, MongoDB, and OpenRouter. Integrated Razorpay payments and Firebase Auth across 15+ REST APIs.
+
+**[Nexus Connect]([https://github.com/vandan0101/Nexus-Connect](https://github.com/vandan0101/Nexus-Connect))** — WhatsApp-like real-time communication platform with Socket.IO messaging and WebRTC audio/video calling. Supports 100+ concurrent users.
+
+**[AdGenAI](https://github.com/vandan0101/AdGenAI)** — AI-powered ad generation tool.
  
 **[Vibe](https://github.com/vandan0101/Vibe)** — A modern, lightweight music streaming app built for a seamless audio experience.
+
+ **[Huffman-Compression-DSA-Project ]([https://github.com/vandan0101](https://github.com/vandan0101/Huffman-Compression-DSA-Project))**  — A feature-rich web application implementing the Huffman coding algorithm for both text and image compression. Built with React, Vite, and Tailwind CSS.
  
-**[VKS News](https://github.com/vandan0101)** — React.js news aggregation platform with real-time API data, category filtering, search, and responsive design across all devices.
- 
-**[Nexus Connect](https://github.com/vandan0101/Nexus-Connect)** — WhatsApp-like real-time communication platform with Socket.IO messaging and WebRTC audio/video calling. Supports 100+ concurrent users.
- 
-**[AdGenAI](https://github.com/vandan0101/AdGenAI)** — AI-powered ad generation tool.
+
  
 ---
  
