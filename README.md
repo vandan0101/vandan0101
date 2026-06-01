@@ -78,13 +78,7 @@ I'm an EE undergrad at IIT Jodhpur who genuinely enjoys building things from scr
  
 ## GitHub Stats
  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vandan0101&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vandan0101&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
----
+
  
 <p align="center">Always up for interesting conversations, collaborations, or just geeking out about tech.<br>
   <a href="mailto:patelvandan010107@gmail.com">patelvandan010107@gmail.com</a>
